@@ -7,3 +7,4 @@ pypdf
 docx2txt
 faiss-cpu
 youtube-transcript-api
+sentence-transformers
